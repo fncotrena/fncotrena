@@ -36,7 +36,7 @@ Me considero una persona resolutiva, enfocada en crear soluciones claras, manten
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 - **ORM:** Sequelize  
-- **APIs / Protocolos:** REST, gRPC  
+- **APIs / Protocolos:** REST
 - **Autenticación y seguridad:** JWT, manejo de tokens, HTTPS/TLS  
 
 ### Base de datos
