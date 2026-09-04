@@ -61,11 +61,11 @@ Me considero una persona resolutiva, enfocada en crear soluciones claras, manten
 
 ## 🎓 Educación
 
-- **Licenciatura en Informática** *(en curso — 70% aprobado)*
-  *UNPSJB - Sede Puerto Madryn*
+- **Licenciatura en Informática** (en curso — 70% aprobado)
+  *UNPSJB - Sede Puerto Madryn
   
 - **Analista y Programador universitario** (graduado— 100% aprobado)
-  *UNPSJB — Sede Puerto Madryn *
+  *UNPSJB — Sede Puerto Madryn 
 ---
 
 
